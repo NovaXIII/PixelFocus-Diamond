@@ -1,5 +1,7 @@
 # PixelFocus Diamond V1
 
+![Preview](https://cdn.modrinth.com/data/cached_images/7ad832bdddfec5f750f18a058dbf7051504e5ea5.png)
+
 PixelFocus Diamond V1 is a custom Minecraft crosshair featuring a clean and symmetrical diamond design. Created for players who want a minimalist yet highly visible aiming point, this crosshair provides excellent visual clarity while maintaining an unobtrusive appearance on screen.
 
 ## Features
